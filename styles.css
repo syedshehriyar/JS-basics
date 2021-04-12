@@ -5,3 +5,17 @@ body {
 	margin-left: 5rem;
 	padding: 1rem 1rem;
 }
+.btn-translate {
+	margin: 2rem 5rem;
+}
+#font {
+	font-size: x-large;
+}
+#output {
+	border: 1px solid black;
+	height: 20vh;
+	width: 25%;
+	margin: 2rem 5rem;
+	padding: 1rem 1rem;
+	background-color: white;
+}
