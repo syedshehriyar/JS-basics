@@ -71,7 +71,10 @@ footer {
 	text-align: center;
 	bottom: 0;
 	color: var(--secondary-color);
-	padding: 2rem;
+	padding: 1rem;
+}
+#footer-heading {
+	font-size: large;
 }
 #footer-para {
 	max-width: var(--width-break);
