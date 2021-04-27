@@ -28,6 +28,7 @@ main {
 #secondary-heading {
 	font-size: x-large;
 	font-weight: lighter;
+	color: var(--secondary-color);
 }
 #translate-input {
 	box-sizing: border-box;
