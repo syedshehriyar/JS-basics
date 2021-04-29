@@ -80,3 +80,12 @@ footer {
 	max-width: var(--width-break);
 	margin: auto;
 }
+
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ footer{
+	 position: relative;
+ }
+  }
+}
