@@ -8,7 +8,7 @@ function constructUrl(text) {
 }
 function errorHandler(error) {
 	console.log("error occured", error);
-	alert("Something wrong with server! try again later");
+	alert("Something wrong with server! Please try again later");
 }
 function clickHandler() {
 	//taking input
